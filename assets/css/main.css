@@ -62,7 +62,7 @@
 		width: device-width;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 1200px) {
 
 		html, body {
 			min-width: 320px;
@@ -324,7 +324,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1200px) {
 
 			form .field.half {
 				width: 100%;
@@ -674,7 +674,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1200px) {
 
 			.image.main {
 				margin: 1.5rem 0;
@@ -819,7 +819,7 @@
 						padding: 0 0 0 0.5rem;
 					}
 
-			@media screen and (max-width: 480px) {
+			@media screen and (max-width: 1200px) {
 
 				ul.actions {
 					margin: 0 0 2rem 0;
@@ -1160,7 +1160,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1200px) {
 
 			#wrapper {
 				padding: 1rem;
@@ -1292,7 +1292,7 @@
 				#header nav ul li a {
 					display: block;
 					min-width: 10.5rem;
-					height: 2.75rem;
+					height: auto ;
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
@@ -1393,7 +1393,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1200px) {
 
 			#header {
 				padding: 1.5rem 0;
@@ -1548,7 +1548,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1200px) {
 
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
